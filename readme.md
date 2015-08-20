@@ -4,4 +4,4 @@
 - Used frameword: Bootstrap
 - Feel free to read and use at your will
 
-*@PhamQuangHau, Last updated 01:21 Friday, May 22nd 2015*
+*@DuongNguyen, Last updated August 21st, 2015 0:44
