@@ -1,0 +1,15 @@
+How to push a local project to Github
+- Create a local directory and a github repository
+- git init
+- git add .  //adding all files and changes to a staging area
+- git commit -m "some message"
+- git remote add origin UrlToGitHubRepo
+- git remote -v
+- git push origin master
+
+How to commit changes
+- git add .
+- git commit -m "some messages"
+- git push origin master
+
+
